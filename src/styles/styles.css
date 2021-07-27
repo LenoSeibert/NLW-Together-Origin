@@ -69,7 +69,7 @@ h1 {
   );
 }
 
-/*====  LAYOUT ============================ */
+/*LAYOUT*/
 .container {
   margin-left: 1.5rem;
   margin-right: 1.5rem;
@@ -118,7 +118,7 @@ main {
   margin-top: var(--header-height);
 }
 
-/*====  HOME ============================ */
+/*HOME*/
 #home {
   overflow: hidden;
 }
