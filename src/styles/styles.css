@@ -17,9 +17,9 @@ img {
   width: 100%;
   height: auto;
 }
-.test{
+/*.test{
   color:hsl(27, 100%, 54%);
-}
+}*/
 /*VARS*/
 :root {
   --header-height: 4.5rem;
